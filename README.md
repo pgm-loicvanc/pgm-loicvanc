@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**pgm-loicvanc/pgm-loicvanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# loic van Cutsem
 
-Here are some ideas to get you started:
+Learning to become a back-end developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+1. Dutch: main Language
+2. English: 8/10
+3. German: 7/10
+4. French: 6/10
+
+- Javascript
+- c++
+- Html/Css
